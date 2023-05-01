@@ -1,0 +1,28 @@
+using System;
+using System IO;
+
+namespace Exercise9
+{
+    public static class program
+    {
+       public static void Main()
+      {
+        double number1,number2,number3;
+        
+        Console.Write("ENTER THE FIRST NUMBERS :");
+        number1= Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("ENTER THE SECOND NUMBER :");
+        number2= Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("ENTER THE THIRD NUMBER :");
+        number3= Convert.ToDouble(Console.ReadLine());
+
+
+
+     double results = (number1+number2+number3);
+     Console.WriteLine("The sum of {0},{1},{2}, is : {3)" number1,number2,number3,result);
+
+       }
+     }
+}
