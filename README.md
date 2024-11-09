@@ -2,7 +2,7 @@
      Creative Director of AfriCats Inc
 - 🌱 I’m open to learning new things
 - 💞️ I enjoy collaborating with others ...
-- 📫 How to reach me ...
+- 📫 To reach me ... ai6corp@outlook.com
 - 👀 My Interests 🎮🍽🎞🖥🎼🎱⚽🎾
 <!---
 ST10099088/ST10099088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
